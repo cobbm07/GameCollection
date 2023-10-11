@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment1.params=
+comment1.target=char[][]\ newRandBoard()
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=
+comment3.target=char[][]\ getSolution()
+comment4.params=x\ y
+comment4.target=char\ getValue(int,\ int)
+numComments=5

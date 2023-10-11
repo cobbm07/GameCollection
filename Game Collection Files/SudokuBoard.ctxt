@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SudokuBoard
+comment1.params=
+comment1.target=SudokuBoard()
+comment10.params=x\ y
+comment10.target=char\ getValue(int,\ int)
+comment2.params=
+comment2.target=char[][]\ newRandBoard()
+comment3.params=boardNum
+comment3.target=char[][]\ createSolution(int)
+comment4.params=
+comment4.target=void\ printBoard()
+comment5.params=
+comment5.target=void\ printBaseBoard()
+comment6.params=
+comment6.target=char[][]\ getBaseBoard()
+comment7.params=
+comment7.target=char[][]\ getBoard()
+comment8.params=
+comment8.target=char[][]\ getSolution()
+comment9.params=x\ y\ value
+comment9.target=void\ setValue(int,\ int,\ int)
+numComments=11

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Wordle
+comment1.params=reader
+comment1.target=void\ welcome(java.io.BufferedReader)
+comment10.params=userInLoop
+comment10.target=void\ win(java.io.BufferedReader)
+comment11.params=userInLoop
+comment11.target=void\ menuLoop(java.io.BufferedReader)
+comment12.params=
+comment12.target=void\ quit()
+comment2.params=validLetters\ timerValid\ userInGame
+comment2.target=void\ startGame(boolean,\ boolean,\ java.io.BufferedReader)
+comment3.params=guess\ answer
+comment3.target=boolean\ validGuess(Word,\ Word)
+comment4.params=guess\ answer\ visual
+comment4.target=boolean\ testGuess(Word,\ Word,\ Word)
+comment5.params=userInGame
+comment5.target=java.util.Timer\ resetTimer(java.io.BufferedReader)
+comment6.params=
+comment6.target=void\ run()
+comment7.params=
+comment7.target=void\ run()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=timeoutFail\ userInLoop
+comment9.target=void\ fail(boolean,\ java.io.BufferedReader)
+numComments=13
